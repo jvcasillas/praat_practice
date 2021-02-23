@@ -1,0 +1,116 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 68.3565306122449 
+tiers? <exists> 
+size = 7 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "item" 
+        xmin = 0 
+        xmax = 68.3565306122449 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 13.58566920315428 
+            text = "" 
+        intervals [2]:
+            xmin = 13.58566920315428 
+            xmax = 13.942664760085718 
+            text = "present_1" 
+        intervals [3]:
+            xmin = 13.942664760085718 
+            xmax = 68.3565306122449 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "syl1" 
+        xmin = 0 
+        xmax = 68.3565306122449 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 13.58566920315428 
+            text = "" 
+        intervals [2]:
+            xmin = 13.58566920315428 
+            xmax = 13.71048657799702 
+            text = "" 
+        intervals [3]:
+            xmin = 13.71048657799702 
+            xmax = 68.3565306122449 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "syl2" 
+        xmin = 0 
+        xmax = 68.3565306122449 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 13.71048657799702 
+            text = "" 
+        intervals [2]:
+            xmin = 13.71048657799702 
+            xmax = 13.942664760085718 
+            text = "" 
+        intervals [3]:
+            xmin = 13.942664760085718 
+            xmax = 68.3565306122449 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "v1" 
+        xmin = 0 
+        xmax = 68.3565306122449 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 13.642016035668838 
+            text = "" 
+        intervals [2]:
+            xmin = 13.642016035668838 
+            xmax = 13.71048657799702 
+            text = "" 
+        intervals [3]:
+            xmin = 13.71048657799702 
+            xmax = 68.3565306122449 
+            text = "" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "v2" 
+        xmin = 0 
+        xmax = 68.3565306122449 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 13.757905149267133 
+            text = "" 
+        intervals [2]:
+            xmin = 13.757905149267133 
+            xmax = 13.80523128259729 
+            text = "" 
+        intervals [3]:
+            xmin = 13.80523128259729 
+            xmax = 68.3565306122449 
+            text = "" 
+    item [6]:
+        class = "TextTier" 
+        name = "task" 
+        xmin = 0 
+        xmax = 68.3565306122449 
+        points: size = 1 
+        points [1]:
+            number = 13.769829844279455 
+            mark = "d" 
+    item [7]:
+        class = "TextTier" 
+        name = "notes" 
+        xmin = 0 
+        xmax = 68.3565306122449 
+        points: size = 1 
+        points [1]:
+            number = 13.769829844279455 
+            mark = "not sure about second vowel" 
